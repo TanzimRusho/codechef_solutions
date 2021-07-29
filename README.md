@@ -1,2 +1,2 @@
 # codechef_solutions
-Accepted solutions in Codechef.
+Accepted solutions in CodeChef.
